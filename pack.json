@@ -1,0 +1,10 @@
+{
+  "name": "Mario Kart Wii Sounds",
+  "description": "UI sounds ripped from Mario Kart Wii.",
+  "author": "namuHExists",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": false,
+  "ignore": [],
+  "mappings": {}
+}
